@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some personal projects**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **kotlin**
 
 - 📫 How to reach me **nathantromp@live.com**
 
